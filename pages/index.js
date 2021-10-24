@@ -22,7 +22,7 @@ export default function Home() {
             Solicitamos informações pessoais apenas quando realmente precisamos
             delas para lhe fornecer um serviço. Fazemo-lo por meios justos e
             legais, com o seu conhecimento e consentimento. Também informamos
-            por que estamos coletando e como será usado.{" "}
+            por que estamos coletando e como será usado.
           </p>
           <p>
             Apenas retemos as informações coletadas pelo tempo necessário para
@@ -39,11 +39,10 @@ export default function Home() {
             O nosso site pode ter links para sites externos que não são operados
             por nós. Esteja ciente de que não temos controle sobre o conteúdo e
             práticas desses sites e não podemos aceitar responsabilidade por
-            suas respectivas{" "}
+            suas respectivas
             <a href="https://politicaprivacidade.com">
               políticas de privacidade
             </a>
-            .{" "}
           </p>
           <p>
             Você é livre para recusar a nossa solicitação de informações
@@ -65,7 +64,7 @@ export default function Home() {
             quais informações eles coletam, como as usamos e por que às vezes
             precisamos armazenar esses cookies. Também compartilharemos como
             você pode impedir que esses cookies sejam armazenados, no entanto,
-            isso pode fazer o downgrade ou 'quebrar' certos elementos da
+            isso pode fazer o downgrade ou {"'quebrar'"} certos elementos da
             funcionalidade do site.
           </p>
           <h3>Como usamos os cookies?</h3>
@@ -91,7 +90,6 @@ export default function Home() {
           <h3>Cookies que definimos</h3>
           <ul>
             <li>
-              {" "}
               Cookies relacionados à conta
               <br />
               <br /> Se você criar uma conta connosco, usaremos cookies para o
@@ -100,10 +98,9 @@ export default function Home() {
               sistema, porém, em alguns casos, eles poderão permanecer
               posteriormente para lembrar as preferências do seu site ao sair.
               <br />
-              <br />{" "}
+              <br />
             </li>
             <li>
-              {" "}
               Cookies relacionados ao login
               <br />
               <br /> Utilizamos cookies quando você está logado, para que
@@ -113,10 +110,9 @@ export default function Home() {
               garantir que você possa acessar apenas a recursos e áreas
               restritas ao efetuar login.
               <br />
-              <br />{" "}
+              <br />
             </li>
             <li>
-              {" "}
               Cookies relacionados a boletins por e-mail
               <br />
               <br /> Este site oferece serviços de assinatura de boletim
@@ -125,10 +121,9 @@ export default function Home() {
               notificações válidas apenas para usuários inscritos / não
               inscritos.
               <br />
-              <br />{" "}
+              <br />
             </li>
             <li>
-              {" "}
               Pedidos processando cookies relacionados
               <br />
               <br /> Este site oferece facilidades de comércio eletrônico ou
@@ -136,10 +131,9 @@ export default function Home() {
               pedido seja lembrado entre as páginas, para que possamos
               processá-lo adequadamente.
               <br />
-              <br />{" "}
+              <br />
             </li>
             <li>
-              {" "}
               Cookies relacionados a pesquisas
               <br />
               <br /> Periodicamente, oferecemos pesquisas e questionários para
@@ -148,10 +142,9 @@ export default function Home() {
               podem usar cookies para lembrar quem já participou numa pesquisa
               ou para fornecer resultados precisos após a alteração das páginas.
               <br />
-              <br />{" "}
+              <br />
             </li>
             <li>
-              {" "}
               Cookies relacionados a formulários
               <br />
               <br /> Quando você envia dados por meio de um formulário como os
@@ -159,10 +152,9 @@ export default function Home() {
               comentários, os cookies podem ser configurados para lembrar os
               detalhes do usuário para correspondência futura.
               <br />
-              <br />{" "}
+              <br />
             </li>
             <li>
-              {" "}
               Cookies de preferências do site
               <br />
               <br /> Para proporcionar uma ótima experiência neste site,
@@ -171,7 +163,7 @@ export default function Home() {
               preferências, precisamos definir cookies para que essas
               informações possam ser chamadas sempre que você interagir com uma
               página for afetada por suas preferências.
-              <br />{" "}
+              <br />
             </li>
           </ul>
           <h3>Cookies de Terceiros</h3>
@@ -182,13 +174,12 @@ export default function Home() {
           </p>
           <ul>
             <li>
-              {" "}
               Este site usa o Google Analytics, que é uma das soluções de
               análise mais difundidas e confiáveis ​​da Web, para nos ajudar a
               entender como você usa o site e como podemos melhorar sua
               experiência. Esses cookies podem rastrear itens como quanto tempo
               você gasta no site e as páginas visitadas, para que possamos
-              continuar produzindo conteúdo atraente.{" "}
+              continuar produzindo conteúdo atraente.
             </li>
           </ul>
           <p>
@@ -197,7 +188,6 @@ export default function Home() {
           </p>
           <ul>
             <li>
-              {" "}
               As análises de terceiros são usadas para rastrear e medir o uso
               deste site, para que possamos continuar produzindo conteúdo
               atrativo. Esses cookies podem rastrear itens como o tempo que você
@@ -205,7 +195,6 @@ export default function Home() {
               como podemos melhorar o site para você.
             </li>
             <li>
-              {" "}
               Periodicamente, testamos novos recursos e fazemos alterações
               subtis na maneira como o site se apresenta. Quando ainda estamos
               testando novos recursos, esses cookies podem ser usados ​​para
@@ -214,7 +203,6 @@ export default function Home() {
               usuários mais apreciam.
             </li>
             <li>
-              {" "}
               À medida que vendemos produtos, é importante entendermos as
               estatísticas sobre quantos visitantes de nosso site realmente
               compram e, portanto, esse é o tipo de dados que esses cookies
